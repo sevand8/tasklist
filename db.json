@@ -1,13 +1,5 @@
 {
-  "tasks": [
-    {
-      "id": "8659",
-      "title": "Estudiar",
-      "description": "Química \nMatemáticas \nFísica ",
-      "completed": false,
-      "userId": 1
-    }
-  ],
+  "tasks": [],
   "posts": [
     {
       "id": "0a11",
