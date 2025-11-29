@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "8659",
+      "title": "Estudiar",
+      "description": "Química \nMatemáticas \nFísica ",
+      "completed": false,
+      "userId": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": "0a11",
+      "title": "Hola gordo",
+      "description": "Dar de tragar al gordo",
+      "completed": false,
+      "createdAt": "2025-11-26T17:14:05.370Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
